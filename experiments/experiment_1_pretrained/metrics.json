@@ -1,0 +1,1847 @@
+{
+  "overall": {
+    "exact_match_accuracy": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "num_examples": 1079
+  },
+  "per_subcategory": {
+    " JSON Schema": {
+      "count": 5,
+      "accuracy": 0.0
+    },
+    "AI Code Generation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "AI Test Generation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "AWS": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Access Control": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Action History": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Action Selection": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Ad Copy Generation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Add Numbers": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Aerospace & Defense": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Agent Operations": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Agentic Frameworks": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Air Freight & Logistics": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Air Freight CRM System": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Airport Services Operations": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Airport Services Security System": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Algorithmic Options Trading": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Algorithmic Trading APIs": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Algorithmic Trading Infrastructure": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Algorithmic Trading Market Access": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Algorithmic Trading Market Impact": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Algorithmic Trading Optimization": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Algorithmic Trading Regulation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Algorithmic Trading Simulations": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Algorithmic Trading Transaction Cost Analysis": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Analyze Sentiment": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Analyze Website": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Analyze Website Traffic": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Android": {
+      "count": 4,
+      "accuracy": 0.0
+    },
+    "Animation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Artistic Image Generation with DALL-E": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Authentication Policies": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Authentication and Authorization": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Automated Code Generation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Automated Routines": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Automobile Components (New Name)": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Automobile Manufacturing CRM System": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Automobile Manufacturing Supply Chain": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Automobiles": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Automotive Retail E-commerce Platform": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Automotive Retail POS System": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Azure": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Banking Core System": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Banking Customer Onboarding System": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Banks": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Behavioral Dynamics": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Beverages": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Book Flight": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Broadline Retail (New Name)": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Brokerage Customer Account Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Building Products": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "CRM Tools": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Cable and Satellite Television Streaming App": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Calculate Car Loan Payment": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Calculate Distance": {
+      "count": 9,
+      "accuracy": 0.0
+    },
+    "Calculate Fuel Cost": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Calculate Future Value": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Calculate Gcd": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Calculate Gpa": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Calculate Interest": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Calculate Loan Emis": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Calculate Loan Interest": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Calculate Loan Payment": {
+      "count": 19,
+      "accuracy": 0.0
+    },
+    "Calculate Loan Repayment": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Calculate Median": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Calculate Mortgage": {
+      "count": 4,
+      "accuracy": 0.0
+    },
+    "Calculate Mortgage Payment": {
+      "count": 12,
+      "accuracy": 0.0
+    },
+    "Calculate Route": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Calculate Tax": {
+      "count": 5,
+      "accuracy": 0.0
+    },
+    "Calculate Volume": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Calendar": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Call a Ride": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Call financial data APIs": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Call image recognition APIs": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Call text-to-speech APIs": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Capital Markets": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Cash App": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Chat Completion": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Check Anagram": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Check Email": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Check Email Availability": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Check Prime Number": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Check Spelling": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Check Stock Price": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Chemical Process Optimization": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Chemicals": {
+      "count": 5,
+      "accuracy": 0.0
+    },
+    "Chime": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Citation Verification": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Code Analysis and Testing": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Code Assistance": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Code Collaboration": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Code Editors": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Code Evaluation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Code Execution": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Code Parsing": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Code Refactoring": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Code profiling": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Coinbase": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Collaborative Editing": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Command-Line Interaction": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Commercial Services & Supplies": {
+      "count": 5,
+      "accuracy": 0.0
+    },
+    "Communication Apps": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Communications Equipment": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Compress and decompress files": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Configuration Management": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Construction Materials": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Construction Materials Inventory Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Consumer Electronics Supply Chain Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Consumer Finance": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Consumer Staples Distribution & Retail (New Name)": {
+      "count": 4,
+      "accuracy": 0.0
+    },
+    "Containers & Packaging": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Content Creation and Modification": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Content Moderation Schema": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Contract Deployment": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Conversation Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Conversational Dynamics": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Convert Currency": {
+      "count": 39,
+      "accuracy": 0.0
+    },
+    "Convert Temperature": {
+      "count": 5,
+      "accuracy": 0.0
+    },
+    "Crafting Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Create Account": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Create Calendar Event": {
+      "count": 7,
+      "accuracy": 0.0
+    },
+    "Create Event": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Create Note": {
+      "count": 9,
+      "accuracy": 0.0
+    },
+    "Create Playlist": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Create Social Media Post": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Create Todo": {
+      "count": 8,
+      "accuracy": 0.0
+    },
+    "Create Todo List": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Create User": {
+      "count": 4,
+      "accuracy": 0.0
+    },
+    "Create User Account": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Create User Profile": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Create and manage database tables": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Cryptocurrency Algorithmic Trading": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Custom Model Integration": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Data Center Facility Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Data Compression": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Data Extraction": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Data Filtering": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Data Integration Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Data Modification": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Data Processing and Retrieval": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Data Recovery": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Data Retrieval": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Data Streaming Services": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Data Transformation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Data Transformation Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Data replication": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Database Analysis": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Decision Making": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Delete File": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Dependent Schemas": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Development Environment Setup": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Discover Gadgets": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Discover Home Decor": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Diversified Consumer Services": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Diversified Telecommunication Services": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Document Processing": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Drug Retail POS Analytics": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "E-commerce Analytics": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Ecommerce System Schema": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Elasticsearch Query Generation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Electric Utilities Grid Analytics Platform": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Electric Utilities Grid Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Electrical Equipment": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Electronic Data Interchange (EDI)": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Electronic Equipment, Instruments & Components": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Electronic Medical Records (EMR)": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Email Processing": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Embedding Finetuning": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Employee Feedback Systems": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Energy Equipment & Services": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Energy Traders Data Analytics Platform": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Energy Traders Trading Platform": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Entertainment Content Recommendation Engine": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Entertainment Industry Event Management System": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Entertainment Recommendations": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Entity Interaction": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Environmental Data": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Event and Reservation Schemas": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Execute Program": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Execution Algorithms": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Expedia": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Explore Astronomy": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Explore Fashion": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "File Explorer (Windows)": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "File Parsing": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Financial Exchanges Data Platform": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Financial Exchanges Trading Platform": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Financial Services (New Name)": {
+      "count": 5,
+      "accuracy": 0.0
+    },
+    "Find Nearby Parks": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Find Nearby Places": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Find Nearby Restaurants": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Find Nearest Gas Station": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Find Recipe": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Find Restaurant": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Find Restaurants": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Fine-Tuning": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Food Distributors ERP": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Food Distributors POS Analytics": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Food Distributors Supply Chain Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Food Products": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Food Retail E-commerce Analytics": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Form Filling Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "FuncChain Agents": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Game Simulation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Garage Door Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Generate Anagram": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Generate Random Color": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Generate Random Joke": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Generate Random Name": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Generate Random Number": {
+      "count": 32,
+      "accuracy": 0.0
+    },
+    "Generate Random Quote": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Generate Random Username": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Generate Sudoku": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Generate Username": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Geographical Location Schema": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Geolocation Services": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get Book Details": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get Current News": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get Definition": {
+      "count": 5,
+      "accuracy": 0.0
+    },
+    "Get Exchange Rate": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get Exercise Recommendations": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get File Contents": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get Horoscope": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get Movie Details": {
+      "count": 27,
+      "accuracy": 0.0
+    },
+    "Get Movie Info": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get News": {
+      "count": 12,
+      "accuracy": 0.0
+    },
+    "Get News Articles": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get News Headlines": {
+      "count": 8,
+      "accuracy": 0.0
+    },
+    "Get Quote Of The Day": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get Random Fact": {
+      "count": 5,
+      "accuracy": 0.0
+    },
+    "Get Random Joke": {
+      "count": 6,
+      "accuracy": 0.0
+    },
+    "Get Random Number": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Get Recipe": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get Stock Price": {
+      "count": 33,
+      "accuracy": 0.0
+    },
+    "Get Sunrise Sunset Time": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get Sunset Time": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get Traffic Info": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Get User Info": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Google Workspace": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Ground Transportation (New Name)": {
+      "count": 4,
+      "accuracy": 0.0
+    },
+    "Guardrails Agent": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Handle multiple tabs and windows": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Health Care Equipment & Supplies": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Health Care Providers & Services": {
+      "count": 4,
+      "accuracy": 0.0
+    },
+    "Health and Safety Compliance Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Healthcare Data": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Healthcare Distributors Demand Forecasting": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Healthcare Distributors Order Processing": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Healthcare Facilities Infection Control System": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Healthcare Facilities Patient Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Healthcare Process Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Healthcare Services Telemedicine Platform": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Healthcare System Schema": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Hierarchical Process": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Highways & Railtracks Infrastructure Monitoring": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Hotels, Restaurants & Leisure": {
+      "count": 4,
+      "accuracy": 0.0
+    },
+    "Household Durables": {
+      "count": 5,
+      "accuracy": 0.0
+    },
+    "Hugging Face": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "IBM Watson IoT": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "IT Services": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Image Analysis": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Image Recognition Functionality": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Industrial Conglomerates": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Information Retrieval": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Instacart": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Instructor Agents": {
+      "count": 7,
+      "accuracy": 0.0
+    },
+    "Insurance": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Insurance Policy Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Insurance Process Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Integration Examples": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Integration with Third-Party Services": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Interact with pop-ups and dialogs": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Interactive Home Entertainment Platform": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Interactive Media Accessibility Solutions": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Interactive Media Monetization Strategies": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Interactive Media Platform": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Interactive Visualization": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Interconnected Devices": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Inventory Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Iterative Search": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "JSON Schema": {
+      "count": 9,
+      "accuracy": 0.0
+    },
+    "Job Matching Services": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Json Schema": {
+      "count": 80,
+      "accuracy": 0.0
+    },
+    "Keyword Extraction": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Kinematic Humanoid Configuration": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Knowledge Graph Generation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Knowledge Sharing Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "LangGraph Agents": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Langchain Agents": {
+      "count": 4,
+      "accuracy": 0.0
+    },
+    "Learn Skills": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Leisure Products": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Library Assistance": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Life Sciences Tools & Services": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Life Sciences Tools & Services Inventory Tracking System": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Linux Skill Creation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "List Processing": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "LlamaIndex Agents": {
+      "count": 5,
+      "accuracy": 0.0
+    },
+    "Location APIs": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Machinery": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Make Notes": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Manufacturing Process Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Marine Ports & Services Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Marine Transportation (New Name)": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Market Data Analysis": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Market Microstructure Analysis": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Media": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Meeting Analysis": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Memory Dynamics": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Memory Recall": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Memory Retrieval": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Memory Update": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Meta-Prompting": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Metals & Mining": {
+      "count": 6,
+      "accuracy": 0.0
+    },
+    "Metals Recycling Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Microsoft 365": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Minecraft Agent": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Mob Interaction": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Multi-Function Agents": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Multi-Utilities Mobile Workforce Solutions": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Multi-Utilities Workforce Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "NPC Generation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Named Entity Recognition": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Natural Language Understanding": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Navigation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Network Automation Tools": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Network Performance Monitoring Solutions": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Oil, Gas & Consumable Fuels": {
+      "count": 5,
+      "accuracy": 0.0
+    },
+    "OpenHAB Configuration": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Optimization": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Optimize database performance": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Oracle APEX": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Order Management System (OMS)": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Outlines Agent": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Outlines Agents": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Pairs Trading Strategies": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Paper & Forest Products": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Path Finding": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "PayPal": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Perception": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Performance Benchmarking": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Persona Environment Interaction": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Personal Care Products (New Name)": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Personal Care Products E-commerce Analytics": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Personal Care Products E-commerce Platform": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Play Music": {
+      "count": 7,
+      "accuracy": 0.0
+    },
+    "Playbook Development": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Power Producers Demand Forecasting Tools": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Product Customization": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Professional Services": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Publication Metadata": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Python REPL": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Quantum Cloud Services": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Quantum Computing Integration": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Query Planning and Execution": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Question Answering": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Question Classification": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Rail Transportation Route Optimization": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Real-time Communication": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Recursive Computation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Reference Extraction": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Refining and Marketing Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Regex Pattern": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Reinsurance": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Reinsurance Claims Settlement": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Reinsurance Underwriting System": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Relationship Analysis": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Renewable Electricity Distributed Generation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Renewable Electricity Energy Storage Management": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Renewable Electricity Microgrid Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Research and Information Gathering": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Resolve merge conflicts": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Resource Management": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Retrieval Evaluation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Revolut": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Risk Management": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Robinhood": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Robotic Arm Control": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Role-Playing Simulation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "SAP Finance": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Salesforce": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Satellite Communication Network Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Screen Scraping": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Search Books": {
+      "count": 7,
+      "accuracy": 0.0
+    },
+    "Search Images": {
+      "count": 4,
+      "accuracy": 0.0
+    },
+    "Search Job": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Search Jobs": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Search Locations": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Search Movie": {
+      "count": 7,
+      "accuracy": 0.0
+    },
+    "Search Movie Theaters": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Search Movies": {
+      "count": 16,
+      "accuracy": 0.0
+    },
+    "Search Music": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Search Product": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Search Recipe": {
+      "count": 8,
+      "accuracy": 0.0
+    },
+    "Search Recipes": {
+      "count": 20,
+      "accuracy": 0.0
+    },
+    "Search Restaurant": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Search Restaurants": {
+      "count": 9,
+      "accuracy": 0.0
+    },
+    "Search Song": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Search Wikipedia": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Searchmovies": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Semantic Search": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Semiconductors & Semiconductor Equipment": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Send Email": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Send Sms": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Shopify": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Simulacrum Agent": {
+      "count": 7,
+      "accuracy": 0.0
+    },
+    "Simulation Compression": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Skill Execution": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Software": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Sort Array": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Specialty Retail": {
+      "count": 5,
+      "accuracy": 0.0
+    },
+    "Speech-to-Text Conversion": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Statistical Arbitrage": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Subscription Management": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Task Automation": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Task Conclusion": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Task Execution": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Task Management": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Technology Distributors": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Terminal (Command Line)": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Test code": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Text Summarization": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Text Summarization Quality": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Text Validation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Textiles, Apparel & Luxury Goods": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Thrifts & Mortgage Finance (Discontinued)": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Time Calculation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Time Series Forecasting": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Torch Hub": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Track Expenses": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Trade Management System": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Trading Companies & Distributors": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Transaction History": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Transactional Operations": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Translate Text": {
+      "count": 7,
+      "accuracy": 0.0
+    },
+    "Transportation Infrastructure": {
+      "count": 3,
+      "accuracy": 0.0
+    },
+    "Transportation Management System (TMS)": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Transportation Services CRM System": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Unknown": {
+      "count": 87,
+      "accuracy": 0.0
+    },
+    "User Information Extraction": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "User Interaction": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Validate Email": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Vinyl": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Virtual Assistant Development": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Voyager MineCraft Agent": {
+      "count": 4,
+      "accuracy": 0.0
+    },
+    "Vulnerability Assessment": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Watch videos": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Weather Forecasting": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Web Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Web Scraping": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "WebBrowser Agent": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Wireless Communication Solutions": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Wireless Telecommunication Services": {
+      "count": 2,
+      "accuracy": 0.0
+    },
+    "Wish": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Workflow Automation": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Write unit tests": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "Zendesk": {
+      "count": 1,
+      "accuracy": 0.0
+    },
+    "iPhone": {
+      "count": 3,
+      "accuracy": 0.0
+    }
+  },
+  "experiment": {
+    "name": "experiment_1_pretrained",
+    "model_name": "google/flan-t5-base",
+    "split": "test",
+    "training": "none",
+    "device": "cuda",
+    "batch_size": 16
+  }
+}
